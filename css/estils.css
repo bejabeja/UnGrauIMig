@@ -188,6 +188,10 @@ footer{
         padding-top: 175px;
     }
 
+    body {
+        font-size: 1em;
+    }
+
     .main {
         padding: 14em 1em 6em;
         margin: 0 auto;
